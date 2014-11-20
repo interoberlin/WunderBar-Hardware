@@ -4,7 +4,7 @@ WunderBar Hardware
 Welcome to the **WunderBar Hardware Schematics and Layout**.
 This repository contains the latest version of the *WunderBar* hardware design.
 
-The *WunderBar* is being manufactured by *MikroElektronika*.  (http://www.mikroe.com/wunderbar). The manufacturing was generously sponsored by Conrad Electronic (http://www.conrad.de), the European-wide electronics parts distributor. 
+The *WunderBar* is being manufactured by *MikroElektronika*.  (http://www.mikroe.com/wunderbar). The manufacturing was generously sponsored by Conrad Electronic (http://www.conrad.de), the European-wide electronics parts distributor.
 
 If you want to make your own custom version, we encourage you to share, modify, extend and improve the actual design!! Therefore here is all you need to manufacture your own version. Please reach out to us if you have any questions or need any help, or especially if you have any feedback about the design, or suggestions about what we might improve.
 
@@ -12,9 +12,9 @@ If you want to make your own custom version, we encourage you to share, modify, 
 <img src="./README/Ohw-logo.png" alt="Drawing" style="width: 100px;"/>
 
 ### Datasheets:
-In the *"/Datasheets"* folder you will find the relevant ICs datasheets of the MCUs, sensors and extra circuitery separated by module.
+In the *"/Datasheets"* folder you will find the relevant datasheets of the MCUs, sensors and extra circuitry separated by module.
 ### Schematics:
-The complete project for Altium Designer <sup>TM</sup>: http://www.altium.com/altium-designer/overview is located in the *"AltiumDesignerProject"* folder.
+The complete project for *Altium Designer* <sup>TM</sup>: http://www.altium.com/altium-designer/overview is located in the *"AltiumDesignerProject"* folder.
 
 For a quick look into the schematics for the Master Module and the 6 BLE modules, check the file *"WunderBar Schematics v1_3.pdf"*.
 
@@ -50,4 +50,4 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE PRODUCT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE PRODUCT OR THE USE OR OTHER DEALINGS IN THE PRODUCT.
 
-### relayr.io
+### relayr.io - 2014
