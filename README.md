@@ -4,7 +4,9 @@ WunderBar Hardware
 Welcome to the **WunderBar Hardware Schematics and Layout**.
 This repository contains the latest version of the *WunderBar* hardware design.
 
-The *WunderBar* is actually being manufactured by *MikroElektronika* (http://www.mikroe.com/wunderbar/). However, if you want to make your own custom version, we encourage you to share, modify, extend and improve the actual design!! Therefore here is all you need to manufacture your own version:
+The *WunderBar* is being manufactured by *MikroElektronika*.  (http://www.mikroe.com/wunderbar). The manufacturing was generously sponsored by Conrad Electronic (http://www.conrad.de), the European-wide electronics parts distributor. 
+
+If you want to make your own custom version, we encourage you to share, modify, extend and improve the actual design!! Therefore here is all you need to manufacture your own version. Please reach out to us if you have any questions or need any help, or especially if you have any feedback about the design, or suggestions about what we might improve.
 
 ![WunderBar](./README/packaging.png)
 <img src="./README/Ohw-logo.png" alt="Drawing" style="width: 100px;"/>
@@ -17,7 +19,7 @@ The complete project for Altium Designer <sup>TM</sup>: http://www.altium.com/al
 For a quick look into the schematics for the Master Module and the 6 BLE modules, check the file *"WunderBar Schematics v1_3.pdf"*.
 
 ### Layout:
-A PDF output of the PCB Layout is in *"Wunderbat Layout.pdf"*. For a detailed view of the different layers and connections open the *Altium* project.
+A PDF output of the PCB Layout is in *"Wunderbar Layout.pdf"*. For a detailed view of the different layers and connections open the *Altium* project.
 
 ### Bill of Materials:
 The *"Bill of Materials v1_3"* sheet details the components names, quantity, supplier name and part numbers. There are also two files inside *"/Manufacturing/BillOfMaterials"* wich relates the components to the actual designator code on the Schematics and Layout.
