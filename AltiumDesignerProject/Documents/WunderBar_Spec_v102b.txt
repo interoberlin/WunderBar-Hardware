@@ -1,0 +1,10 @@
+Specification:
+FR-4, 1.6mm, 4-layer, Immersion Gold, 1oz finished copper, Black SolderMask, White Legend.
+NOTES:
+- Layer sequence: GTL-G1-G2-GBL
+- This design has blind vias: TX1 file represent holes between GTL and G1 layers
+- We need this board panelized (3up) with 10mm routing between the boards vertically
+- Panel Border should be 7mm wide with fiducial marks and tooling holes (3mm) distanced 2.5mm from the inner edge
+- NOTE: Panel already done
+- The size of the board is 115.723mm (W) x 39.421mm (H)
+- The size of the panel should be 129.723mm (W) x 138.263mm (H)

@@ -1,0 +1,32 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: WunderBar_v102.PcbDoc   5/28/2014  10:14:13 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : WunderBar_v102.TXT
+EIA File   : WunderBar_v102.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        6mil (0.1524mm)          Round          32               1.28 Inch (32.51 mm)
+T2        8mil (0.2032mm)          Round          280              38.05 Inch (966.53 mm)
+T3        12mil (0.3048mm)         Round          146              29.99 Inch (761.78 mm)
+T4        32mil (0.8128mm)         Round          30               6.72 Inch (170.80 mm)
+T5        35.4mil (0.89916mm)      Round          4                0.24 Inch (6.00 mm)
+T6        40mil (1.016mm)          Round          2                0.10 Inch (2.54 mm)
+---------------------------------------------------------------------------
+Totals                                            494              76.38 Inch (1940.16 mm)
+Layer Pair : Top to Route2
+ASCII RoundHoles File : WunderBar_v102.TX1
+EIA File   : WunderBar_v102.DR1
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T2        8mil (0.2032mm)          Round          18               5.36 Inch (136.12 mm)
+T3        12mil (0.3048mm)         Round          12               7.21 Inch (183.01 mm)
+---------------------------------------------------------------------------
+Totals                                            30               12.56 Inch (319.13 mm)
+---------------------------------------------------------------------------
+Totals                                            524              88.95 Inch (2259.29 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

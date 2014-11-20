@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=WunderBar_v102b.PrjPCB
+[Project2]
+ProjectPath=..\WunderBar_Panel_v104\WunderBar_Panel_v102b.PrjPCB
