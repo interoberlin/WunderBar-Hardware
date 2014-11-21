@@ -9,7 +9,7 @@ Here you will find everything you need to build your own version of the WunderBa
 
 
 ![WunderBar](./README/packaging.png)
-<img src="./README/Ohw-logo.png" alt="Drawing" style="width: 100px;"/>
+<img src="./README/Ohw-logo.png" alt="Drawing" style="width: 50px;"/>
 
 ### Datasheets:
 In the *[/Datasheets](https://github.com/relayr/wunderbar-hardware/tree/master/Datasheets)* folder you will find the relevant data sheets for the micro controller units (MCUs), the sensors and the additional circuitry, separated by module type.
